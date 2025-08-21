@@ -1,0 +1,1 @@
+El archivo "MyOwnExercises.java" contiene metodos de strings variables entre otras cosas basicas de java.
