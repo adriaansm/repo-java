@@ -1,4 +1,3 @@
-package Exercises;
 
 public class MyOwnExercises {
     public static void main(String[] args) {
@@ -18,7 +17,7 @@ public class MyOwnExercises {
         System.out.println("Longitud: " + word.length());
         System.out.println("Primera letra: " + word.charAt(0));
         System.out.println("Última letra: " + word.charAt(word.length() -1));
-        System.out.println("Subcadena: " + word.substring(0, 6));
+        System.out.println("Subcadena " + word.substring(0, 6));
         System.out.println("Mayusculas: " + word.toUpperCase());
         System.out.println("Contiene 'dizaje'?: " + word.contains("dizaje"));
 
