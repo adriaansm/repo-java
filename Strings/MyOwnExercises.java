@@ -1,3 +1,4 @@
+package Strings;
 
 public class MyOwnExercises {
     public static void main(String[] args) {

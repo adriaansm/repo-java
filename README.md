@@ -19,5 +19,12 @@ operación y ponerlo en una variable pero queria hacerlo diferente. (Las variabl
 
 3. Por último hice una especie de juego como "Adivina el numero" solo que es algo complicado cuando no he utilizado condicionales ni bucles, pero de igual manera me sirve como contexto para practicar.
 
-**Estos pequeños proyectos son para poner en practica mis conocimientos en Strings y Operadores aritmeticos de java, no se puede hacer mucho más así que seguiré estudiando para mejorar las practicas**
+# CONDICIONALES Y ESTRUCTURAS
+
+Hice unos cuantos ejercicios de estructuras y condicionales, tal vez despues añadiré mini-proyectos.
+
+1. **Condicionales:** Aprendí if, else if, else. Switch y tambien operadores de comparación en el proceso.
+2. **Estructuras:** Aprendí a eliminar, cambiar crear y declarar Array's, ArrayList, HashSet Y HashMap.
+ 
+**Estos pequeños proyectos son para poner en practica mis conocimientos en java hasta tener los conceptos basicos para integrarlos en un proyecto grande.**
 
