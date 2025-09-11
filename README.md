@@ -25,6 +25,14 @@ Hice unos cuantos ejercicios de estructuras y condicionales, tal vez despues añ
 
 1. **Condicionales:** Aprendí if, else if, else. Switch y tambien operadores de comparación en el proceso.
 2. **Estructuras:** Aprendí a eliminar, cambiar crear y declarar Array's, ArrayList, HashSet Y HashMap.
+
+# BUCLES Y FUNCIONES 
+
+**Hice 3 ejercicios de diferentes niveles de dificultad los cuales contienen principalmente bucles y estructuras.**
+
+1. Los dos los pueden ver en 'GeneralProjects.java'
+2. El 'Inventario.java' es el mini-proyecto mas completo y grande que he hecho
+3. Los ejercicios pueden encontrarlos en la carpeta "Funciones"
  
 **Estos pequeños proyectos son para poner en practica mis conocimientos en java hasta tener los conceptos basicos para integrarlos en un proyecto grande.**
 
